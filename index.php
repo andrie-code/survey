@@ -1,5 +1,13 @@
-<?php
+<html>
+	<head>
+		<title>Hello World PHP!</title>
+	</head>
+	
+	<body>
+		<?php
 
-echo "Hello World!"
+			echo '<p>Hello World!</p>';
 
- ?>
+		?>
+	</body>
+</html>
